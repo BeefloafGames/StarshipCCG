@@ -1,0 +1,5 @@
+DN-5 Fortress Cruiser
+4,000
+9,500
+150
+Multi-phase Shield Generator - All modifications to the DN-5 Fortress Cruiser’s shields are increased by 25 points

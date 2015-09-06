@@ -1,0 +1,4 @@
+High-power Disruptor
+1000
++250 damage to Shields, +250 damage to Armor
+Increases the player’s Energy regen by +50 for the next 3 turns. 

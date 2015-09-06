@@ -1,0 +1,2 @@
+Science
+Energy regenerates 5% faster per turn.

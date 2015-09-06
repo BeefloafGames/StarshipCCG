@@ -1,0 +1,4 @@
+Obliterator
+1000
+2 turns
+Destroys the card with the highest damage stat on the opponent’s battlefield.

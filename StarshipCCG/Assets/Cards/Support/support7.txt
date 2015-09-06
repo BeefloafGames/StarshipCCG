@@ -1,0 +1,2 @@
+NanoBots
+Summon NanoBots to your aid - Shield Regenerates +75 for 5 turns.

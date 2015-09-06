@@ -1,0 +1,4 @@
+Pyromagnum
+750
++200 damage to Shields over the next three turns (max 600)
+If less than half (300) damage is done at the end of 3 turns, 250 energy is returned back.

@@ -1,0 +1,2 @@
+Energy Shield
+Regain 50% of the energy used this round in the next round. 

@@ -1,0 +1,4 @@
+Short-Range Icer
+500
++150 damage to Armor
+Reduce damage taken by opponent in the next turn by 25%.

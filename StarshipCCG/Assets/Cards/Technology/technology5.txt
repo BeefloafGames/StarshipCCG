@@ -1,0 +1,4 @@
+CloneTech
+200
+3 turns
+Every two turns, search your deck for a General Crew card and put it into play. Shuffle your deck afterwards.

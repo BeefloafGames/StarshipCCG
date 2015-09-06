@@ -1,0 +1,4 @@
+Plasma Railgun
+1000
++500 damage to Shields
+None

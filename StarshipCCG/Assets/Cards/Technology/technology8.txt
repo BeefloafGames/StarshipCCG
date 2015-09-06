@@ -1,0 +1,4 @@
+Spybot
+1000
+Instant
+Player selects a weapon card from his battlefield which is then sent into the opponent’s battlefield, transferring all the stats along with it. At the same time, draws two random cards from the player’s deck and places it into the player’s hand for use.

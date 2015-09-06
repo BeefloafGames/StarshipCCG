@@ -1,0 +1,4 @@
+Gravitic Depth Charge
+700
++100 damage to Shields
+Choose one of your opponent’s weapons and disable it for this turn only. Recharges in 5 turns.

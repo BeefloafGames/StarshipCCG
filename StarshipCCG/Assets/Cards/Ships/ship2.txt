@@ -1,0 +1,5 @@
+Solari V Bomber
+2,700
+6,500
+280
+Does 10% of opponent’s maximum armor as damage every 2 turns.

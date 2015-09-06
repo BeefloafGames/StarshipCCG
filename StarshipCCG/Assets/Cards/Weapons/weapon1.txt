@@ -1,0 +1,4 @@
+Gatling Laser
+250
++50 damage to Shields
++30 damage for each Gatling Laser card in play besides this one

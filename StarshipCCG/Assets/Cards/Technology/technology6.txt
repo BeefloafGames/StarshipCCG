@@ -1,0 +1,4 @@
+Decoy
+500
+2 turns
+Select a Weapon card on the battlefield and replace it with a decoy. A decoy card has no stats. The card selected will be returned back to your hand and can be used again anytime. The stats of the card will be removed from the ship. 

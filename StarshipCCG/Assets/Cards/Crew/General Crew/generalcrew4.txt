@@ -1,0 +1,2 @@
+Tactical
+Damage dealt is increased by 5%

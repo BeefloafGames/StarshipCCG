@@ -1,0 +1,4 @@
+Psi Rifle
+250
++25 damage to Shields
+Permanently (or until the card is removed or destroyed) increases your energy regen by +10.

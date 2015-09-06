@@ -1,0 +1,2 @@
+Leah Keys
+For the next 3 turns after this ability is used, the opponent’s max Energy is decreased by 400 (minimum value 0) and regenerates 50% less per turn.

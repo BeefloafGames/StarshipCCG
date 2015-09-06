@@ -1,0 +1,2 @@
+Chet Foxwell
+Clears any debuffs on the player’s ship for the next 2 turns.

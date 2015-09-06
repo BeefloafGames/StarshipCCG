@@ -1,0 +1,4 @@
+Targeted EMP
+450
+None
+Inactive until next turn. Select one of your opponent’s weapons and destroy it. Targeted EMP is destroyed at the end of the turn on which it is used.

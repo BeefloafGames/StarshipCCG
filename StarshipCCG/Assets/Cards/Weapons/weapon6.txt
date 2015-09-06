@@ -1,0 +1,4 @@
+Pulse Cannon
+500
++50 dmg to Shields, +50 dmg to Armor
+Reduces the total defense stats of the opponent’s ship by 10% only for the next turn.

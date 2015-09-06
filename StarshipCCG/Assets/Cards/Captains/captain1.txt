@@ -1,0 +1,2 @@
+Avery
+Ignores shield health for the next turn and does damage directly to the Armor. If the shields are depleted before using this card, true damage (ignoring all defense mods on the opponent's ship) is done to the Armor

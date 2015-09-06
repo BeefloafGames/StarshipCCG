@@ -1,0 +1,4 @@
+Randomizer 9000
+1000
+Instant
+Select a card in hand. The selected card will then get replaced by a random card in your deck. 

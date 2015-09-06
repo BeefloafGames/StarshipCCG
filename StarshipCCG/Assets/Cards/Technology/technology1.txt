@@ -1,0 +1,4 @@
+Cloak Prototype
+1500
+5 turns
+Negate all damage dealt to your ship on the turn this Technology becomes Active and the following turn. Discard this card afterwards.

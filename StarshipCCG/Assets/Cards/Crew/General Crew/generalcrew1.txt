@@ -1,0 +1,2 @@
+Command
+Damage dealt to armor is decreased by 5%

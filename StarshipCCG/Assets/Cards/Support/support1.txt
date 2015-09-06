@@ -1,0 +1,2 @@
+Backup
+Stays in play for 5 turns. Total Damage is increased by 200.

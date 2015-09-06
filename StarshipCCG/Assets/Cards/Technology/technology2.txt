@@ -1,0 +1,4 @@
+Improved Energy System
+1000
+2 turns
+All General Science Crew cards have their effect increased by 5%.
